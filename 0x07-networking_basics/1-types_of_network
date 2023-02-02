@@ -1,3 +1,5 @@
-3
-2
-1
+#!/usr/bin/env bash
+#Answer for given Multiple choice
+echo 3
+echo 2
+echo 1
